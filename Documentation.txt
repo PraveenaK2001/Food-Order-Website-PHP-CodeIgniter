@@ -1,0 +1,27 @@
+This project is done using PHP Codeigniter framework,
+HTML, BootStrap, and JavaScript with MySQL as database
+
+To run the project, open:
+http://localhost:8080/FoodShala/public/
+
+Database has been exported to foodshala.csv file.
+Import it in phpMyAdmin. 
+Username: root
+Password: "" (Not set)
+
+
+Now the project can be successfully executed.
+
+Sample accounts have been created for customers and restaurants.
+
+Sample Restaurant:
+Yalana@gmail.com
+Pass: 123456
+
+barb@gmail.com
+123456
+
+
+Sample User:
+ajay@gmail.com
+123456
